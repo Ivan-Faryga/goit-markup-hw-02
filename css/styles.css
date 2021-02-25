@@ -2,6 +2,7 @@
   --main-font: "Roboto", sans-serif;
   --secondary-font: "Raleway", sans-serif;
   --background-dark: #2f303a;
+  --background-grey: #f5f4fa;
   --accent-color-primary: #2196f3;
 }
 
@@ -172,6 +173,10 @@ nav-list-link:hover {
 /*============END OUR ADVANTAGES SECTION============*/
 
 /*=================OUR TEAM===================*/
+
+.our-stuff {
+  background-color: var(--background-grey);
+}
 
 .stuff-initials {
   font-family: var(--main-font);
