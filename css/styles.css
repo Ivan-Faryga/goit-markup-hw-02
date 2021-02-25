@@ -114,6 +114,10 @@ nav-list-link:hover {
   cursor: pointer;
 }
 
+.hero-btn:active {
+  background: #188ce8;
+}
+
 .active {
   color: #2196f3;
 }
